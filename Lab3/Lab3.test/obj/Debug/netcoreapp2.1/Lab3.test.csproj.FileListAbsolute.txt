@@ -1,0 +1,17 @@
+D:\UAIC\An3\NET\Lab3\Lab3.test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\UAIC\An3\NET\Lab3\Lab3.test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\UAIC\An3\NET\Lab3\Lab3.test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\UAIC\An3\NET\Lab3\Lab3.test\bin\Debug\netcoreapp2.1\Lab3.test.deps.json
+D:\UAIC\An3\NET\Lab3\Lab3.test\bin\Debug\netcoreapp2.1\Lab3.test.runtimeconfig.json
+D:\UAIC\An3\NET\Lab3\Lab3.test\bin\Debug\netcoreapp2.1\Lab3.test.runtimeconfig.dev.json
+D:\UAIC\An3\NET\Lab3\Lab3.test\bin\Debug\netcoreapp2.1\Lab3.test.dll
+D:\UAIC\An3\NET\Lab3\Lab3.test\bin\Debug\netcoreapp2.1\Lab3.test.pdb
+D:\UAIC\An3\NET\Lab3\Lab3.test\bin\Debug\netcoreapp2.1\Lab3NS.dll
+D:\UAIC\An3\NET\Lab3\Lab3.test\bin\Debug\netcoreapp2.1\Lab3NS.pdb
+D:\UAIC\An3\NET\Lab3\Lab3.test\obj\Debug\netcoreapp2.1\Lab3.test.csprojAssemblyReference.cache
+D:\UAIC\An3\NET\Lab3\Lab3.test\obj\Debug\netcoreapp2.1\Lab3.test.csproj.CoreCompileInputs.cache
+D:\UAIC\An3\NET\Lab3\Lab3.test\obj\Debug\netcoreapp2.1\Lab3.test.AssemblyInfoInputs.cache
+D:\UAIC\An3\NET\Lab3\Lab3.test\obj\Debug\netcoreapp2.1\Lab3.test.AssemblyInfo.cs
+D:\UAIC\An3\NET\Lab3\Lab3.test\obj\Debug\netcoreapp2.1\Lab3.test.csproj.CopyComplete
+D:\UAIC\An3\NET\Lab3\Lab3.test\obj\Debug\netcoreapp2.1\Lab3.test.dll
+D:\UAIC\An3\NET\Lab3\Lab3.test\obj\Debug\netcoreapp2.1\Lab3.test.pdb

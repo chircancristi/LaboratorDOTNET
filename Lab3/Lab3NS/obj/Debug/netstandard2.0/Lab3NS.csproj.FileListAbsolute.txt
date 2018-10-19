@@ -1,0 +1,9 @@
+D:\UAIC\An3\NET\Lab3\Lab3NS\obj\Debug\netstandard2.0\Lab3NS.csprojAssemblyReference.cache
+D:\UAIC\An3\NET\Lab3\Lab3NS\obj\Debug\netstandard2.0\Lab3NS.csproj.CoreCompileInputs.cache
+D:\UAIC\An3\NET\Lab3\Lab3NS\obj\Debug\netstandard2.0\Lab3NS.AssemblyInfoInputs.cache
+D:\UAIC\An3\NET\Lab3\Lab3NS\obj\Debug\netstandard2.0\Lab3NS.AssemblyInfo.cs
+D:\UAIC\An3\NET\Lab3\Lab3NS\bin\Debug\netstandard2.0\Lab3NS.deps.json
+D:\UAIC\An3\NET\Lab3\Lab3NS\bin\Debug\netstandard2.0\Lab3NS.dll
+D:\UAIC\An3\NET\Lab3\Lab3NS\bin\Debug\netstandard2.0\Lab3NS.pdb
+D:\UAIC\An3\NET\Lab3\Lab3NS\obj\Debug\netstandard2.0\Lab3NS.dll
+D:\UAIC\An3\NET\Lab3\Lab3NS\obj\Debug\netstandard2.0\Lab3NS.pdb
