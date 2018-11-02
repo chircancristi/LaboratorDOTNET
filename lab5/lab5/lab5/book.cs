@@ -1,19 +1,21 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
 using System.Text;
+using System.ComponentModel.DataAnnotations;
 
 namespace lab5
 {
     public class Book
     {
-        int Id {
-            set; get;
+        [ForeignKey("AuthorForeignKey")]
+        public Author Author {get;set;}
+        public int AuthorId;
+        public int Id {
+         set;get;
         }
-
-        [Required][MaxLength(100)][MinLength(50)]
-        string Title {
-            set; get;
+        [Required][MinLength(50)][MaxLength(50)]
+        public string Title{
+         set;get;
         }
     }
 }

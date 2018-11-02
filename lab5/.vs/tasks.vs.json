@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "task-AuthorRepository",
+      "appliesTo": "lab5/lab5/AuthorRepository.cs",
+      "type": "launch"
+    },
+    {
+      "taskName": "task-BookRepository",
+      "appliesTo": "lab5/lab5/BookRepository.cs",
+      "type": "launch"
+    }
+  ]
+}
