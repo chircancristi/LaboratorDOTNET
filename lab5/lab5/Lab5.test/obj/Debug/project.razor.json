@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "d:\\UAIC\\An3\\NET\\dotNet-git\\LaboratorDOTNET\\lab5\\lab5\\Lab5.test\\Lab5.test.csproj",
+  "TargetFramework": "v4.6.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

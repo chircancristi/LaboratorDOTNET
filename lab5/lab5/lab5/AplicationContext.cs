@@ -5,7 +5,8 @@ using System.Text;
 
 namespace lab5
 {
-    class AplicationContext:DbContext
+    public class AplicationContext:DbContext
     {
+        
     }
 }
