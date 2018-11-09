@@ -1,3 +1,5 @@
+namespace lab6{
+
 class PointOfInterest {
     private string name{
         private set; get;
@@ -21,4 +23,5 @@ class PointOfInterest {
         this.longitude = longitude;
         this.latitude = latitude;
     }
+}
 }
