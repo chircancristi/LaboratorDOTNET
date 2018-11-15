@@ -1,0 +1,14 @@
+E:\facultate\dotnet\rep\LaboratorDOTNET\lab5\lab5\Lab5.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\facultate\dotnet\rep\LaboratorDOTNET\lab5\lab5\Lab5.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\facultate\dotnet\rep\LaboratorDOTNET\lab5\lab5\Lab5.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\facultate\dotnet\rep\LaboratorDOTNET\lab5\lab5\Lab5.test\bin\Debug\Lab5.test.dll
+E:\facultate\dotnet\rep\LaboratorDOTNET\lab5\lab5\Lab5.test\bin\Debug\Lab5.test.pdb
+E:\facultate\dotnet\rep\LaboratorDOTNET\lab5\lab5\Lab5.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\facultate\dotnet\rep\LaboratorDOTNET\lab5\lab5\Lab5.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\facultate\dotnet\rep\LaboratorDOTNET\lab5\lab5\Lab5.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\facultate\dotnet\rep\LaboratorDOTNET\lab5\lab5\Lab5.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\facultate\dotnet\rep\LaboratorDOTNET\lab5\lab5\Lab5.test\obj\Debug\Lab5.test.csprojAssemblyReference.cache
+E:\facultate\dotnet\rep\LaboratorDOTNET\lab5\lab5\Lab5.test\obj\Debug\Lab5.test.csproj.CoreCompileInputs.cache
+E:\facultate\dotnet\rep\LaboratorDOTNET\lab5\lab5\Lab5.test\obj\Debug\Lab5.test.csproj.CopyComplete
+E:\facultate\dotnet\rep\LaboratorDOTNET\lab5\lab5\Lab5.test\obj\Debug\Lab5.test.dll
+E:\facultate\dotnet\rep\LaboratorDOTNET\lab5\lab5\Lab5.test\obj\Debug\Lab5.test.pdb

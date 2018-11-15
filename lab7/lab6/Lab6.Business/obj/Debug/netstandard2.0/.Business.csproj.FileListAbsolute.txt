@@ -1,0 +1,12 @@
+E:\facultate\dotnet\rep\LaboratorDOTNET\lab7\lab6\Lab6.Business\bin\Debug\netstandard2.0\.Business.deps.json
+E:\facultate\dotnet\rep\LaboratorDOTNET\lab7\lab6\Lab6.Business\bin\Debug\netstandard2.0\.Business.dll
+E:\facultate\dotnet\rep\LaboratorDOTNET\lab7\lab6\Lab6.Business\bin\Debug\netstandard2.0\.Business.pdb
+E:\facultate\dotnet\rep\LaboratorDOTNET\lab7\lab6\Lab6.Business\bin\Debug\netstandard2.0\.Data.dll
+E:\facultate\dotnet\rep\LaboratorDOTNET\lab7\lab6\Lab6.Business\bin\Debug\netstandard2.0\.Data.pdb
+E:\facultate\dotnet\rep\LaboratorDOTNET\lab7\lab6\Lab6.Business\obj\Debug\netstandard2.0\.Business.csprojAssemblyReference.cache
+E:\facultate\dotnet\rep\LaboratorDOTNET\lab7\lab6\Lab6.Business\obj\Debug\netstandard2.0\.Business.csproj.CoreCompileInputs.cache
+E:\facultate\dotnet\rep\LaboratorDOTNET\lab7\lab6\Lab6.Business\obj\Debug\netstandard2.0\.Business.AssemblyInfoInputs.cache
+E:\facultate\dotnet\rep\LaboratorDOTNET\lab7\lab6\Lab6.Business\obj\Debug\netstandard2.0\.Business.AssemblyInfo.cs
+E:\facultate\dotnet\rep\LaboratorDOTNET\lab7\lab6\Lab6.Business\obj\Debug\netstandard2.0\.Business.csproj.CopyComplete
+E:\facultate\dotnet\rep\LaboratorDOTNET\lab7\lab6\Lab6.Business\obj\Debug\netstandard2.0\.Business.dll
+E:\facultate\dotnet\rep\LaboratorDOTNET\lab7\lab6\Lab6.Business\obj\Debug\netstandard2.0\.Business.pdb

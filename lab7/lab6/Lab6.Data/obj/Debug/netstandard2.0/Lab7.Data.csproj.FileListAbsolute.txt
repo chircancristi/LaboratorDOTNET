@@ -1,0 +1,9 @@
+E:\facultate\dotnet\rep\LaboratorDOTNET\lab7\lab6\Lab6.Data\bin\Debug\netstandard2.0\Lab7.Data.deps.json
+E:\facultate\dotnet\rep\LaboratorDOTNET\lab7\lab6\Lab6.Data\bin\Debug\netstandard2.0\Lab7.Data.dll
+E:\facultate\dotnet\rep\LaboratorDOTNET\lab7\lab6\Lab6.Data\bin\Debug\netstandard2.0\Lab7.Data.pdb
+E:\facultate\dotnet\rep\LaboratorDOTNET\lab7\lab6\Lab6.Data\obj\Debug\netstandard2.0\Lab7.Data.csprojAssemblyReference.cache
+E:\facultate\dotnet\rep\LaboratorDOTNET\lab7\lab6\Lab6.Data\obj\Debug\netstandard2.0\Lab7.Data.csproj.CoreCompileInputs.cache
+E:\facultate\dotnet\rep\LaboratorDOTNET\lab7\lab6\Lab6.Data\obj\Debug\netstandard2.0\Lab7.Data.AssemblyInfoInputs.cache
+E:\facultate\dotnet\rep\LaboratorDOTNET\lab7\lab6\Lab6.Data\obj\Debug\netstandard2.0\Lab7.Data.AssemblyInfo.cs
+E:\facultate\dotnet\rep\LaboratorDOTNET\lab7\lab6\Lab6.Data\obj\Debug\netstandard2.0\Lab7.Data.dll
+E:\facultate\dotnet\rep\LaboratorDOTNET\lab7\lab6\Lab6.Data\obj\Debug\netstandard2.0\Lab7.Data.pdb

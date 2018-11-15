@@ -4,22 +4,29 @@ using System.Collections.Generic;
 
 namespace lab5
 {
-    public interface AuthorRepository : IDisposable
-    { 
-        private readonly AplicationContext aplicationContext;
-        IEnumerable<Author> GetAuthors();
-		public AuthorRepository(AplicationContext aplicationContext)
+    public class BookRepository : IDisposable
+    {
+        private AplicationContext context;
+        public IEnumerable<Author> GetAuthors()
         {
-            this.aplicationContext = aplicationContext;
+            return null;
+        }
+        public BookRepository(AplicationContext context)
+        {
+            this.context = context;
         }
         public void Remove(Author author)
         {
-            _dbSet.Remove(author);
+            aplicationContext.Remove(author);
         }
         public void Add(Author author)
         {
-            _dbSet.Addd(author);
+            aplicationContext.Add(author);
         }
 
+        public void Dispose()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

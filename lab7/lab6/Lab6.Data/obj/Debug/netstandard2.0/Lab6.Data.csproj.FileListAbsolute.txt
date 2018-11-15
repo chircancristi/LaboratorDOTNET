@@ -1,0 +1,9 @@
+E:\facultate\dotnet\lab6Fixed\lab6\Lab6.Data\obj\Debug\netstandard2.0\Lab6.Data.csprojAssemblyReference.cache
+E:\facultate\dotnet\lab6Fixed\lab6\Lab6.Data\obj\Debug\netstandard2.0\Lab6.Data.csproj.CoreCompileInputs.cache
+E:\facultate\dotnet\lab6Fixed\lab6\Lab6.Data\obj\Debug\netstandard2.0\Lab6.Data.AssemblyInfoInputs.cache
+E:\facultate\dotnet\lab6Fixed\lab6\Lab6.Data\obj\Debug\netstandard2.0\Lab6.Data.AssemblyInfo.cs
+E:\facultate\dotnet\lab6Fixed\lab6\Lab6.Data\bin\Debug\netstandard2.0\Lab6.Data.deps.json
+E:\facultate\dotnet\lab6Fixed\lab6\Lab6.Data\bin\Debug\netstandard2.0\Lab6.Data.dll
+E:\facultate\dotnet\lab6Fixed\lab6\Lab6.Data\bin\Debug\netstandard2.0\Lab6.Data.pdb
+E:\facultate\dotnet\lab6Fixed\lab6\Lab6.Data\obj\Debug\netstandard2.0\Lab6.Data.dll
+E:\facultate\dotnet\lab6Fixed\lab6\Lab6.Data\obj\Debug\netstandard2.0\Lab6.Data.pdb

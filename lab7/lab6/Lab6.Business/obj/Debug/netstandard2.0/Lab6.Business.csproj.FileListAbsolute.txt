@@ -1,0 +1,12 @@
+E:\facultate\dotnet\lab6Fixed\lab6\Lab6.Business\bin\Debug\netstandard2.0\Lab6.Business.deps.json
+E:\facultate\dotnet\lab6Fixed\lab6\Lab6.Business\bin\Debug\netstandard2.0\Lab6.Business.dll
+E:\facultate\dotnet\lab6Fixed\lab6\Lab6.Business\bin\Debug\netstandard2.0\Lab6.Data.dll
+E:\facultate\dotnet\lab6Fixed\lab6\Lab6.Business\bin\Debug\netstandard2.0\Lab6.Data.pdb
+E:\facultate\dotnet\lab6Fixed\lab6\Lab6.Business\obj\Debug\netstandard2.0\Lab6.Business.csprojAssemblyReference.cache
+E:\facultate\dotnet\lab6Fixed\lab6\Lab6.Business\obj\Debug\netstandard2.0\Lab6.Business.csproj.CoreCompileInputs.cache
+E:\facultate\dotnet\lab6Fixed\lab6\Lab6.Business\obj\Debug\netstandard2.0\Lab6.Business.AssemblyInfoInputs.cache
+E:\facultate\dotnet\lab6Fixed\lab6\Lab6.Business\obj\Debug\netstandard2.0\Lab6.Business.AssemblyInfo.cs
+E:\facultate\dotnet\lab6Fixed\lab6\Lab6.Business\obj\Debug\netstandard2.0\Lab6.Business.csproj.CopyComplete
+E:\facultate\dotnet\lab6Fixed\lab6\Lab6.Business\bin\Debug\netstandard2.0\Lab6.Business.pdb
+E:\facultate\dotnet\lab6Fixed\lab6\Lab6.Business\obj\Debug\netstandard2.0\Lab6.Business.dll
+E:\facultate\dotnet\lab6Fixed\lab6\Lab6.Business\obj\Debug\netstandard2.0\Lab6.Business.pdb
