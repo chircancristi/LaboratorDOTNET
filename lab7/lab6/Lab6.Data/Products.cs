@@ -14,7 +14,7 @@ namespace Lab7.Data
         [NotMapped]
         public int Total { get { return Price * Pieces; } }
 
-        Products( string name, int price , int pieces)
+        public Products( string name, int price , int pieces)
         {
             this.Id = Guid.NewGuid();
             this.Name = name;

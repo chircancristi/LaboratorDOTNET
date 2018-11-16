@@ -13,7 +13,7 @@ namespace Lab7.Data
         [NotMapped]
         public int Total { get; set;}
         ICollection<Products> ProductsInCart;
-        ShoppingCart (DateTime date,string description)
+        public ShoppingCart (DateTime date,string description)
         {
             Id = Guid.NewGuid();
             Date = date;
