@@ -11,6 +11,6 @@ namespace lab7Aplication.Model
         [Required]
         public string Description { get; set; }
         [Required]
-        public DateTime date { get; set;  }
+        public DateTime Date { get; set;  }
     }
 }

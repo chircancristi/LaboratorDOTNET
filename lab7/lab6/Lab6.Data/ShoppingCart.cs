@@ -29,5 +29,11 @@ namespace Lab7.Data
             var product = ProductsInCart.FirstOrDefault(b => b.Id == id);
             ProductsInCart.Remove(product);
         }
+        public Products getProductById(Guid id)
+        {
+            var product = ProductsInCart.FirstOrDefault(b => b.Id == id);
+            return product;
+
+        }
     }
 }
